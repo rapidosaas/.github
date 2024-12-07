@@ -18,7 +18,7 @@
 
 ## Quickstart
 
-[nazimboudeffa.gumroad.com/boilerplate](nazimboudeffa.gumroad.com/boilerplate)
+[nazimboudeffa.gumroad.com/boilerplate](https://nazimboudeffa.gumroad.com/boilerplate)
 
 ## Donations to the contributors
 
