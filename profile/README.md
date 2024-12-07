@@ -2,7 +2,7 @@
   Rapido SaaS
 </h1>
 <p align="center">
-  Rapido SaaS provides easy to use boilerplates to orchestrate them into powerful SaaS.
+  Rapido SaaS provides easy to use boilerplates and apps to orchestrate them into powerful SaaS.
 </p>
 <p align="center">
   <a href="https://github.com/sookyjs/.github/blob/main/LICENSE">
