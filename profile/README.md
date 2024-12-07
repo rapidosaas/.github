@@ -1,8 +1,8 @@
 <h1 align="center">
-  Sooky
+  Rapido SaaS
 </h1>
 <p align="center">
-  Sooky provides modularized online business logic and tools to orchestrate them into powerful SaaS.
+  Rapido SaaS provides easy to use boilerplates to orchestrate them into powerful SaaS.
 </p>
 <p align="center">
   <a href="https://github.com/sookyjs/.github/blob/main/LICENSE">
