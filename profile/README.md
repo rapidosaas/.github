@@ -5,9 +5,6 @@
   Rapido SaaS provides easy to use boilerplates and apps to orchestrate them into powerful SaaS.
 </p>
 <p align="center">
-  <a href="https://github.com/sookyjs/.github/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Rapido SaaS is released under the MIT license." />
-  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
   </a>
