@@ -17,6 +17,15 @@
 
 [nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com)
 
+## Deploymments
+
+1. learn.codewithadu.de
+2. ui.codewithadu.de
+3. saas.codewithadu.de
+4. neofreelance.com
+5. cabasbusiness.com
+6. instant-store.com
+
 ## Donations to the contributors
 
 [![](https://img.shields.io/badge/Nazim%20%20Boudeffa's%20%20-PAYPAL-blue)](https://paypal.me/nazimboudeffa)  [![](https://img.shields.io/badge/Nazim%20%20Boudeffa's%20%20-TIPEEE-pink)](https://fr.tipeee.com/nazimboudeffa)
