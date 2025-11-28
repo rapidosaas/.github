@@ -26,7 +26,7 @@ This list is default deployment, you can copy and deploy your clone project as y
 3. [saas.codewithadu.de](https://saas.codewithadu.de) actually rapidosaas.com and the boilerplate is here
 4. [neofreelance.com](https://saas.codewithadu.de)
 5. [cabasbusiness.com](https://cabasbusiness.com)
-6. [demo.instant-store.com](https://instant-store.com) it's instant store DZ, the landing page is actually wip
+6. [instant-store.com](https://instant-store.com) it's actually instant store DZ
 
 ## Donations to the contributors
 
