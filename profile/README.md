@@ -8,7 +8,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
   </a>
-  <a href="https://discord.gg/EPM4rqpmcf">
+  <a href="https://discord.gg/KPcmEyJQ">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord" />
   </a>
 </p>
