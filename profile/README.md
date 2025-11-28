@@ -19,6 +19,8 @@
 
 ## Deploymments
 
+This list is default deployment, you can copy and deploy your clone project as you want
+
 1. learn.codewithadu.de
 2. ui.codewithadu.de
 3. saas.codewithadu.de
