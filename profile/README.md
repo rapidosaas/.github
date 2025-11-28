@@ -21,12 +21,12 @@
 
 This list is default deployment, you can copy and deploy your clone project as you want
 
-1. learn.codewithadu.de
-2. ui.codewithadu.de
-3. saas.codewithadu.de
-4. neofreelance.com
-5. cabasbusiness.com
-6. instant-store.com
+1. [learn.codewithadu.de](https://learn.codewithadu.de)
+2. [ui.codewithadu.de](https://ui.codewithadu.de)
+3. [saas.codewithadu.de](https://saas.codewithadu.de)
+4. [neofreelance.com](https://saas.codewithadu.de)
+5. [cabasbusiness.com](https://cabasbusiness.com)
+6. [instant-store.com](https://instant-store.com)
 
 ## Donations to the contributors
 
