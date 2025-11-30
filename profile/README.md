@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## Docs on GumRoad
+## Documentation
 
 [nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com)
 
