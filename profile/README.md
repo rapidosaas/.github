@@ -13,11 +13,7 @@
   </a>
 </p>
 
-## Documentation
-
-[nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com)
-
-## Deploymments
+## Latest Deploymments
 
 This list is default deployment, you can copy and deploy your clone project as you want
 
@@ -27,6 +23,10 @@ This list is default deployment, you can copy and deploy your clone project as y
 4. [neofreelance.com](https://saas.codewithadu.de)
 5. [cabasbusiness.com](https://cabasbusiness.com)
 6. [instant-store.com](https://instant-store.com) explains what is Instant Store DZ with demo and example
+
+## Documentation
+
+[nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com)
 
 ## Donations to the contributors
 
