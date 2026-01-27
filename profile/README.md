@@ -23,7 +23,7 @@ This list is default deployment, you can copy and deploy your clone project as y
 4. [neofreelance.com](https://saas.codewithadu.de)
 5. [cabasbusiness.com](https://cabasbusiness.com)
 6. [instant-store.com](https://instant-store.com) explains what is Instant Store DZ with demo and example
-7. [opensoccermanager](https://opensoccermanager.com) 
+7. [opensoccermanager.com](https://opensoccermanager.com) open source football manager
 
 ## Documentation
 
