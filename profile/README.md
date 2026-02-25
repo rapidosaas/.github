@@ -13,7 +13,7 @@
   </a>
 </p>
 
-We'll be moving from Discord tn STOAT to let everyone stay anonymous, here is the link https://stt.gg/NCn8K0Ce
+We'll be moving from Discord tn STOAT to let everyone stay anonymous, here is the link https://stt.gg/NCn8K0Ce (it's experimental)
 
 ## Latest Deploymments
 
