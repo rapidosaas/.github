@@ -26,10 +26,6 @@ This list is default deployment, you can copy and deploy your clone project as y
 5. [cabas.dzair.co](https://cabas.dzair.co)
 6. [instant-store.com](https://instant-store.com) explains what is Instant Store DZ with demo and example
 
-## Documentation
-
-[nazimboudeffa.gumroad.com](https://nazimboudeffa.gumroad.com)
-
 ## Donations to the contributors
 
 [![](https://img.shields.io/badge/Nazim%20%20Boudeffa's%20%20-PAYPAL-blue)](https://paypal.me/nazimboudeffa)  [![](https://img.shields.io/badge/Nazim%20%20Boudeffa's%20%20-TIPEEE-pink)](https://fr.tipeee.com/nazimboudeffa)
