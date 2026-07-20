@@ -23,9 +23,8 @@ This list is default deployment, you can copy and deploy your clone project as y
 2. [ui.codewithadu.de](https://ui.codewithadu.de)
 3. [saas.codewithadu.de](https://saas.codewithadu.de) actually rapidosaas.com and the boilerplate is down here
 4. [neofreelance.com](https://saas.codewithadu.de)
-5. [cabasbusiness.com](https://cabasbusiness.com)
+5. [cabas.dzair.co](https://cabas.dzair.co)
 6. [instant-store.com](https://instant-store.com) explains what is Instant Store DZ with demo and example
-7. [opensoccermanager.com](https://opensoccermanager.com) open-source football management game
 
 ## Documentation
 
