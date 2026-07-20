@@ -1,8 +1,8 @@
 <h1 align="center">
-  Ship Your SaaS
+  Ship Your SaaS Rapidly
 </h1>
 <p align="center">
-  Ship Your SaaS provides easy to use boilerplates and apps to orchestrate them into powerful SaaS.
+  Ship Your SaaS Rapidly provides easy to use boilerplates and apps to orchestrate them into powerful SaaS.
 </p>
 <p align="center">
   <a href="#">
