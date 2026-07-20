@@ -13,8 +13,6 @@
   </a>
 </p>
 
-We'll be moving from Discord on STOAT to let everyone stay anonymous, here is the link https://stt.gg/NCn8K0Ce (it's experimental atm)
-
 ## Latest Deploymments
 
 This list is default deployment, you can copy and deploy your clone project as you want
